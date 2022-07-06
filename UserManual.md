@@ -34,7 +34,7 @@ public:
 
 * 清除数据(运行API前执行)
 ```C++
-theData.Clear();
+theData.Clear(); // theData是CSSData类的对象
 ```
 
 # 模型信息
